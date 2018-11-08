@@ -17,5 +17,9 @@
             "Otorain\\Aliyun\\Oss\\": "src/"
         }
     },
-    "repositories": "https://github.com/otorain/aliyun-oss.git"
+    "repository": [
+        {
+            "url": "https://github.com/otorain/aliyun-oss.git"
+        }
+    ]
 }
