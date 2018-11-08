@@ -10,7 +10,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "otorain/aliyun-oss": "master@dev"
+        
     },
     "autoload": {
         "psr-4": {
