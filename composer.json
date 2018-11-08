@@ -1,0 +1,15 @@
+{
+    "name": "otorain/aliyun-oss",
+    "description": "aliyun oss sdk",
+    "authors": [
+        {
+          "name": "otorain"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Otorain\\Aliyun\\Oss": "src/"
+        }
+    }
+}
