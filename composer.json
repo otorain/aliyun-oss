@@ -7,6 +7,9 @@
         }
     ],
     "license": "MIT",
+    "require": {
+          
+    },
     "autoload": {
         "psr-4": {
             "Otorain\\Aliyun\\Oss\\": "src/"
