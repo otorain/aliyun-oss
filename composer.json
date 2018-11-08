@@ -9,7 +9,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Otorain\\Aliyun\\Oss": "src/"
+            "Aliyun\\Oss": "src/"
         }
     }
 }
