@@ -7,6 +7,8 @@
         }
     ],
     "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "otorain/aliyun-oss": "master@dev"
     },
