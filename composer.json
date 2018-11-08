@@ -10,11 +10,12 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        
+
     },
     "autoload": {
         "psr-4": {
             "Otorain\\Aliyun\\Oss\\": "src/"
         }
-    }
+    },
+    "repositories": "https://github.com/otorain/aliyun-oss.git"
 }
