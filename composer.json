@@ -7,10 +7,10 @@
         }
     ],
     "license": "MIT",
-    "minimum-stability": "master",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-
+        "otorain/aliyun-oss": "*"
     },
     "autoload": {
         "psr-4": {
