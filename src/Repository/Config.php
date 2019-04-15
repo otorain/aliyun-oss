@@ -10,8 +10,8 @@ namespace Aliyun\Oss\Repository;
 
 final class Config
 {
-    const APP_ID    = 'LTAIaIGXh4dy8qLe';
-    const APP_KEY   = 'j51USbjLj0NYC9bQvRuJGVgfa6Sduj';
+    const APP_ID    = 'xxxxx';
+    const APP_KEY   = 'xxxxxxxxxxx';
     const BUCKET    = 'zhaiiker-test';
     const ENDPOINT  = 'oss-cn-shenzhen.aliyuncs.com';
 
